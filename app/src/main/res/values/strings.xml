@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mandu</string>
+    <string name="confirm_phone">By tapping Send confirmation code, Mandu will send you a SMS to confirm</string>
+    <string name="confirm_code">By tapping Verify you agree to the terms of service, privacy policy and cookies policy of Mandu</string>
+    <string name="resend">Didn\'t get the code? Resend Code</string>
+</resources>
